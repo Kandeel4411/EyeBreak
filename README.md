@@ -10,8 +10,8 @@ A simple reminder program that aims to enforce the 20/20/20 eye rule to help pro
 
 Windows and Linux are the only supported platforms currently. Go to [releases](https://github.com/kandeel4411/eyebreak/releases) page and download the zip file that corresponds to your platform.  
   
-Run `eyebreak` and voila!  
-*It may take a few seconds on Windows to start up.*
+Run `eyebreak` and voila! Every 20 minutes that pass, it will pop up a notification to take a break.  
+*Note: It may take a few seconds on Windows to start up.*
 
 ## Building from source
 
