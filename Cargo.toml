@@ -1,5 +1,5 @@
 [package]
-name = "rusteye"
+name = "eyebreak"
 version = "0.1.0"
 authors = ["Abdelrahman Kandil <abdelrahmankandil@hotmail.com>"]
 edition = "2018"
